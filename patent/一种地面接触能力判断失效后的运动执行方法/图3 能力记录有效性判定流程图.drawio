@@ -1,9 +1,113 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="UJV2jqSPS813y0JfYE1U">
-    <mxGraphModel>
+    <mxGraphModel dx="1406" dy="767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="TbLDxb8-h8myXWajKEjD-5" edge="1" parent="1" source="TbLDxb8-h8myXWajKEjD-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=gap;" target="TbLDxb8-h8myXWajKEjD-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TbLDxb8-h8myXWajKEjD-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="能力记录与时序对齐观测" vertex="1">
+          <mxGeometry height="60" width="120" x="200" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TbLDxb8-h8myXWajKEjD-7" edge="1" parent="1" source="TbLDxb8-h8myXWajKEjD-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=gap;" target="TbLDxb8-h8myXWajKEjD-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TbLDxb8-h8myXWajKEjD-10" connectable="0" parent="TbLDxb8-h8myXWajKEjD-7" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];defaultLabelBackgroundColor=gap;" value="是" vertex="1">
+          <mxGeometry relative="1" x="-0.26" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TbLDxb8-h8myXWajKEjD-28" edge="1" parent="1" source="TbLDxb8-h8myXWajKEjD-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=gap;" target="TbLDxb8-h8myXWajKEjD-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TbLDxb8-h8myXWajKEjD-29" connectable="0" parent="TbLDxb8-h8myXWajKEjD-28" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];defaultLabelBackgroundColor=gap;" value="否" vertex="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TbLDxb8-h8myXWajKEjD-4" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;rounded=0;" value="&lt;span style=&quot;color: rgb(40, 37, 61); font-family: &amp;quot;Recursive Variable&amp;quot;, arial, sans-serif; font-size: 14px; white-space: break-spaces;&quot;&gt;有效期及适用域满足&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="200" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="TbLDxb8-h8myXWajKEjD-9" edge="1" parent="1" source="TbLDxb8-h8myXWajKEjD-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=gap;exitX=1;exitY=1;exitDx=0;exitDy=0;" target="TbLDxb8-h8myXWajKEjD-8" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="320" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TbLDxb8-h8myXWajKEjD-11" connectable="0" parent="TbLDxb8-h8myXWajKEjD-9" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];defaultLabelBackgroundColor=gap;" value="是" vertex="1">
+          <mxGeometry relative="1" x="-0.275" y="-3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TbLDxb8-h8myXWajKEjD-13" edge="1" parent="1" source="TbLDxb8-h8myXWajKEjD-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=gap;" target="TbLDxb8-h8myXWajKEjD-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TbLDxb8-h8myXWajKEjD-14" connectable="0" parent="TbLDxb8-h8myXWajKEjD-13" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];defaultLabelBackgroundColor=gap;" value="否" vertex="1">
+          <mxGeometry relative="1" x="0.1846" y="-3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TbLDxb8-h8myXWajKEjD-6" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;rounded=0;" value="&lt;span style=&quot;color: rgb(40, 37, 61); font-family: &amp;quot;Recursive Variable&amp;quot;, arial, sans-serif; font-size: 14px; white-space: break-spaces;&quot;&gt;数据健康及模型适用&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="280" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="TbLDxb8-h8myXWajKEjD-16" edge="1" parent="1" source="TbLDxb8-h8myXWajKEjD-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=gap;" target="TbLDxb8-h8myXWajKEjD-15" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TbLDxb8-h8myXWajKEjD-8" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&lt;span style=&quot;color: rgb(40, 37, 61); font-family: &amp;quot;Recursive Variable&amp;quot;, arial, sans-serif; font-size: 14px; white-space: break-spaces;&quot;&gt;计算滑移与运动残差&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="TbLDxb8-h8myXWajKEjD-27" edge="1" parent="1" source="TbLDxb8-h8myXWajKEjD-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=gap;" target="TbLDxb8-h8myXWajKEjD-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TbLDxb8-h8myXWajKEjD-12" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&lt;span style=&quot;color: rgb(40, 37, 61); font-family: &amp;quot;Recursive Variable&amp;quot;, arial, sans-serif; font-size: 14px; white-space: break-spaces;&quot;&gt;无法确认的依据置为未知&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="210" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="TbLDxb8-h8myXWajKEjD-18" edge="1" parent="1" source="TbLDxb8-h8myXWajKEjD-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=gap;" target="TbLDxb8-h8myXWajKEjD-17" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TbLDxb8-h8myXWajKEjD-19" connectable="0" parent="TbLDxb8-h8myXWajKEjD-18" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];defaultLabelBackgroundColor=gap;" value="否" vertex="1">
+          <mxGeometry relative="1" x="-0.1148" y="-3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TbLDxb8-h8myXWajKEjD-21" edge="1" parent="1" source="TbLDxb8-h8myXWajKEjD-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=gap;exitX=0;exitY=1;exitDx=0;exitDy=0;jumpStyle=arc;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="TbLDxb8-h8myXWajKEjD-20" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="570" />
+              <mxPoint x="290" y="570" />
+              <mxPoint x="290" y="630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TbLDxb8-h8myXWajKEjD-31" connectable="0" parent="TbLDxb8-h8myXWajKEjD-21" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];defaultLabelBackgroundColor=gap;" value="是" vertex="1">
+          <mxGeometry relative="1" x="-0.2" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TbLDxb8-h8myXWajKEjD-15" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;rounded=0;" value="&lt;span style=&quot;color: rgb(40, 37, 61); font-family: &amp;quot;Recursive Variable&amp;quot;, arial, sans-serif; font-size: 14px; white-space: break-spaces;&quot;&gt;满足持续或快速失效判据&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="340" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="TbLDxb8-h8myXWajKEjD-30" edge="1" parent="1" source="TbLDxb8-h8myXWajKEjD-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=gap;" target="TbLDxb8-h8myXWajKEjD-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TbLDxb8-h8myXWajKEjD-17" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&lt;span style=&quot;color: rgb(40, 37, 61); font-family: &amp;quot;Recursive Variable&amp;quot;, arial, sans-serif; font-size: 14px; white-space: break-spaces;&quot;&gt;在原有效条件内继续监测&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="TbLDxb8-h8myXWajKEjD-24" edge="1" parent="1" source="TbLDxb8-h8myXWajKEjD-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=gap;" target="TbLDxb8-h8myXWajKEjD-23" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TbLDxb8-h8myXWajKEjD-20" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&lt;span style=&quot;color: rgb(40, 37, 61); font-family: &amp;quot;Recursive Variable&amp;quot;, arial, sans-serif; font-size: 14px;&quot;&gt;记录不再适用&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="130" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="TbLDxb8-h8myXWajKEjD-26" edge="1" parent="1" source="TbLDxb8-h8myXWajKEjD-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=gap;" target="TbLDxb8-h8myXWajKEjD-25" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TbLDxb8-h8myXWajKEjD-23" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&lt;span style=&quot;color: rgb(40, 37, 61); font-family: &amp;quot;Recursive Variable&amp;quot;, arial, sans-serif; font-size: 14px; white-space: break-spaces;&quot;&gt;输出记录标识与原因并停用关联批准&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="130" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="TbLDxb8-h8myXWajKEjD-25" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&lt;span style=&quot;color: rgb(40, 37, 61); font-family: &amp;quot;Recursive Variable&amp;quot;, arial, sans-serif; font-size: 14px; white-space: break-spaces;&quot;&gt;有新定量依据才生成新能力记录&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="130" y="760" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
